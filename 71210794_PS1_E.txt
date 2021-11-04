@@ -1,0 +1,10 @@
+rumus n = ( suku terakhir-suku awal+ beda)/ beda
+rumus Sn = n/2 (2 x sukuawal + (n-1)b)
+inisiasi variabel a sebagai suku awal, b sebagai beda, c sebagai suku akhir, x sebagai hasil dari perhitungan rumus 1, z sebagai hasil output.
+
+	input variabel a, b, c
+		//mencari nilai variabel x dengan rumus n//
+		x sama dengan (c - a + b) / b
+		//mencari nial variabel z dengan rumus Sn//
+		z sama dengan (x/2)*(2*a + (x-1)*b) 
+	tampilkan hasil nilai z. 
