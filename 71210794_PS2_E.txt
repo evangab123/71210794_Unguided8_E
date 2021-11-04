@@ -1,0 +1,10 @@
+jawaban: gelas 7 
+alasan: 
+air dapat melewati jalur pada gelas pada jalur terendah. di gelas 4 terdapat
+jalur terendah yaitu jalur kekanan atau gelas 2. gelas 2 terdapat juga dua jalur
+tetapi di gelas 2 terdapat penghalang pada jalur gelas 1 di bagian muka jalur
+dan jalur gelas 3 ada penghalang pada ekor jalur, dengan itu air tak dapat ke
+gelas manapun. air kemali penuh di gelas 4 disana air akan dipaksa melewati
+jalur kiri ke gelas 6, di gelas 6 terdapat dua jalur di jalur kanan yang
+mengarah ke gelas 5 terdapat penghalang di muka jalur dan air akan melewati
+jalur ke gelas 7 dengan lancar.
