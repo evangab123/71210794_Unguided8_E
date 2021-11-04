@@ -1,0 +1,23 @@
+inisiasi variabel a sebagai angka fibonnaci ke-a, nilai x sebagai angka awal 
+yaitu 1 dan y sebagai angka 2, z. 
+input nilai a
+x,y sama dengan 1,2
+awal angka dimulai dari satu 1/ "count" sama dengan 1
+	
+	//dimulai dari apakah x valid//
+
+	if a kurang dari 0 maka tampilkan "tulis angka positif"
+		elseif a sama dengan 1, maka tampilkan 1.
+	//else memulai untuk perhitungan fibonacci//
+	else while count kurang dari a
+		tampilkan dahulu angka 1 sebagai awal fibonacci
+		selanjutnya tampilan nilai x 
+		setelah itu kita memulainya dengan mengeswap angka x dan y agar
+		menjadi angka baru maka kita buat variabel z dengan cara
+		z = x + y lalu x sama dengan y dan y sama dengan z.
+		lalu count harus ditambah dengan 1 agar penghitungan bisa 
+		dilanjutkan 
+
+perulangan akan berhenti jika count sudah mencapai nilai x.
+		 
+
